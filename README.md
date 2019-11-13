@@ -30,17 +30,17 @@ Week    |       Topics      |   Activity+References      |   Assignments
 10      | [Review]() | [FinalProjectEvaluation]() | [P05: Peer Review]()
 
 ###### 
-The assignment due is by the beginning of the next classtime (Tue 3pm)
+The assignment due is by the beginning of the next classtime.
 
 ---
 
 ## Final Project
 ### Goal:
-Design an interactive prototype that demonstrates your ideas about how to strengthen user experience in health/clinic context. 
+Design an interactive prototype that demonstrates your ideas about how to strengthen user experience in a specific context(= theme). The semester's theme will be TBA.
 
 ### Requirements:
-- Should cover any health-related topics including mental health, everyday remedies (eating, taking medicine), or fitness as an example. 
-- For any type of patients, caregivers or health practitioner’s better decision making. 
+- Should cover any theme-topics. 
+- For any type stakeholders’ and users' better decision making. 
 - Strongly recommend to choose a self-related design problem. It is extremely helpful to have a close one in the context of design.
 
 ### Reference:
