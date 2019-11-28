@@ -25,7 +25,7 @@ Week    |       Topics      |   Activity+References      |   Assignments
 5       | [Interaction Design](https://docs.google.com/presentation/d/14P7um0_VNF3x7QHCkePEW3wE1K3bnDhT3mAlOoXzmaM/edit?usp=sharing) | [LectureNote06](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote06) | [A05:Persona+Scenario](https://docs.google.com/document/d/1E6C7vnNjxS85XeHNsrg0c1LOKXAuDgF53jQJV6cceWc/edit?usp=sharing) + [A06:Low Fidelity Prototype](https://docs.google.com/document/d/1yywiX303FbT4SA3UDE9Yg7Q1ehYvaMXJOYLF4cqscMs/edit?usp=sharing)
 6       | [Interface Design](https://docs.google.com/presentation/d/10WjqS62ThHPwq26p9G6gBpTWhCdMBXJ_fNl_32UZtgI/edit?usp=sharing)  | [LectureNote04](https://docs.google.com/document/d/1V3mjR9ppGXzCN2ZBXpjhXIMdvC8o-yj7pqLG0AdRw9I/edit?usp=sharing) | [A07: Color Scheme](https://docs.google.com/document/d/1G_2kRcKQ5JU2RK2QCU_5v_VXfn6atVeG2HywaO8bDEU/edit?usp=sharing)
 7       | [Prototyping]() | [LectureNote07]() | [A08: High Fidelity Prototype]()
-8       | [Iterative Process]() | [LectureNote08]() | [Cognitive Walkthrough]()
+8       | [Iterative Process]() | [LectureNote08]() | [E: Cognitive Walkthrough]()
 9       | [UX Portfolio]() | [LectureNote09]() | [A09: Pitch]()
 10      | [Review]() | [FinalProjectEvaluation]() | [A10: Peer Review]()
 
@@ -34,14 +34,21 @@ The assignment due is by the beginning of the next classtime.
 
 ---
 
-## Term Project
+## UX Project 
 ### Goal:
-Design an interactive prototype that demonstrates your ideas about how to strengthen user experience in a specific context(= theme). The semester's theme will be TBA.
+You will define the design problem of the current system; conduct user research to discover user's unspoken needs; and propose the creative solution by an interactive prototype for the new system. Provide the evidence how/why the solution would work with your users. 
 
-### Requirements:
-- Should cover the theme of the semester. 
-- For any type stakeholders’ and users' better decision making. 
-- Strongly recommend to choose a self-related design problem. It is extremely helpful to have a close one in the context of design.
+### Delieverable:
+#### One page web documentation with
+* User Research
+* Design process with physical artifacts
+* Video of the presentation
+
+### Process:
+You will experience at least one cycle of ux process throughout the semester by 10 weekly assignments. 
+
+### Requirements: 
+- Interactive prototype that demonstrates your innovative ideas about how to strengthen user experience in a specific context(= theme, TBA)
 
 ### Reference:
 [The Field Guide to Human-Centered Design By IDEO.org](http://d1r3w4d5z5a88i.cloudfront.net/assets/guide/Field%20Guide%20to%20Human-Centered%20Design_IDEOorg_English-ee47a1ed4b91f3252115b83152828d7e.pdf)
