@@ -26,14 +26,14 @@ Week    |       Topics      |   Activity+References      |   Assignments
 2       | [Usability testing](https://docs.google.com/presentation/d/1rzDBZPBcBIE8DxgI2FoMAPYTHSSJm7mfXalz5myL--g/edit?usp=sharing)  | [LectureNote02](https://github.com/UX-UI-Design-Lab/DH150-2020W/wiki/LectureNote02) | [A02: Pilot test](https://drive.google.com/open?id=1eRsb4nMkKsG5oFfpSeJSskZLRldLUzOKnT1sWeyzrg4)
 3       | [Analysis](https://drive.google.com/open?id=1FMLgyzdr_VtYcuiiIAd6GQwp14QJq2hqoeGZMyXPQOE)  | [LectureNote03](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote03) | [A03: UT Analysis](https://drive.google.com/open?id=1kP_AxMkvy8cG5-xHeuO3RkgBwHgtTfRgz151SyNcsig)
 4       | [User Study](https://docs.google.com/presentation/d/1FYQf5P2qbtFi1OAA_ruUAFQdAxqdSTWXJOTQWKnQxE4/edit?usp=sharing) | [LectureNote04](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote05) | [A04: Contextual Inquiry](https://drive.google.com/open?id=1aI4VAzWyX_lv9ct7wbr5dYYNEFFQiGBs5OA9u3lM9SE) 
-5       | [Interaction Design](https://docs.google.com/presentation/d/14P7um0_VNF3x7QHCkePEW3wE1K3bnDhT3mAlOoXzmaM/edit?usp=sharing) | [LectureNote05](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote06) | [A05:Persona+Scenario](https://docs.google.com/document/d/1E6C7vnNjxS85XeHNsrg0c1LOKXAuDgF53jQJV6cceWc/edit?usp=sharing) + [Low Fidelity Prototype](https://docs.google.com/document/d/1yywiX303FbT4SA3UDE9Yg7Q1ehYvaMXJOYLF4cqscMs/edit?usp=sharing)
+5       | [Interaction Design](https://docs.google.com/presentation/d/14P7um0_VNF3x7QHCkePEW3wE1K3bnDhT3mAlOoXzmaM/edit?usp=sharing) | [LectureNote05](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote06) | [A05:Persona+Scenario](https://docs.google.com/document/d/1E6C7vnNjxS85XeHNsrg0c1LOKXAuDgF53jQJV6cceWc/edit?usp=sharing) + [Low Fidelity Prototype+](https://docs.google.com/document/d/1yywiX303FbT4SA3UDE9Yg7Q1ehYvaMXJOYLF4cqscMs/edit?usp=sharing)
 6       | [Interface Design](https://docs.google.com/presentation/d/10WjqS62ThHPwq26p9G6gBpTWhCdMBXJ_fNl_32UZtgI/edit?usp=sharing)  | [LectureNote06](https://docs.google.com/document/d/1V3mjR9ppGXzCN2ZBXpjhXIMdvC8o-yj7pqLG0AdRw9I/edit?usp=sharing) | [A07: Color Scheme & Accessibility Prob](https://docs.google.com/document/d/1G_2kRcKQ5JU2RK2QCU_5v_VXfn6atVeG2HywaO8bDEU/edit?usp=sharing)
-7       | [Prototyping](https://docs.google.com/presentation/d/1nBaAmRynXH2ga_5tfJBFwPwCQEnGIf09oJt1Q9_o-LM/edit?usp=sharing) | [LectureNote07](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote07) | [A08: High Fidelity Prototype](#)
+7       | [Prototyping](https://docs.google.com/presentation/d/1nBaAmRynXH2ga_5tfJBFwPwCQEnGIf09oJt1Q9_o-LM/edit?usp=sharing) | [LectureNote07](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote07) | [A08: High Fidelity Prototype+](https://docs.google.com/document/d/1LltO1JjHY3sNvBx4Td5mKKoV5-ZhzHtby1V2-4lPnSo/edit?usp=sharing)
 8       | [Iterative Process](#) | [LectureNote08](#) | [Cognitive Walkthrough](#)
 9       | [UX Portfolio](#) | [LectureNote09](#) | [A09: Pitch](#)
 10      | [Review](#) | [FinalProjectEvaluation](#) | [A10: Peer Review](#)
 
-###### The assignment due is by the beginning of the next classtime.
+###### The assignment due is by the beginning of the next classtime unless it is marked with +. + marked assignments have two-weeks to work.
 
 ---
 
