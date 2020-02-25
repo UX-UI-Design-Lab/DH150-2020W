@@ -29,7 +29,7 @@ Week    |       Topics      |   Activity+References      |   Assignments
 5       | [Interaction Design](https://docs.google.com/presentation/d/14P7um0_VNF3x7QHCkePEW3wE1K3bnDhT3mAlOoXzmaM/edit?usp=sharing) | [LectureNote05](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote06) | [A05:Persona-Scenario](https://docs.google.com/document/d/1E6C7vnNjxS85XeHNsrg0c1LOKXAuDgF53jQJV6cceWc/edit?usp=sharing) _ [A06:Low Fidelity Prototype+](https://docs.google.com/document/d/1yywiX303FbT4SA3UDE9Yg7Q1ehYvaMXJOYLF4cqscMs/edit?usp=sharing)
 6       | [Interface Design](https://docs.google.com/presentation/d/10WjqS62ThHPwq26p9G6gBpTWhCdMBXJ_fNl_32UZtgI/edit?usp=sharing)  | [LectureNote06](https://docs.google.com/document/d/1V3mjR9ppGXzCN2ZBXpjhXIMdvC8o-yj7pqLG0AdRw9I/edit?usp=sharing) | [A07: Color Scheme & Accessibility Prob](https://docs.google.com/document/d/1G_2kRcKQ5JU2RK2QCU_5v_VXfn6atVeG2HywaO8bDEU/edit?usp=sharing)
 7       | [Prototyping](https://docs.google.com/presentation/d/1nBaAmRynXH2ga_5tfJBFwPwCQEnGIf09oJt1Q9_o-LM/edit?usp=sharing) | [LectureNote07](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote07) | [A08: High Fidelity Prototype+](https://docs.google.com/document/d/1LltO1JjHY3sNvBx4Td5mKKoV5-ZhzHtby1V2-4lPnSo/edit?usp=sharing)
-8       | [Iterative Process](#) | [LectureNote08](#) | [Cognitive Walkthrough](#)
+8       | [Iterative Process] | [LectureNote08](https://github.com/UX-UI-Design-Lab/DH150-2020W/wiki/LectureNote-Week08) | [Cognitive Walkthrough]
 9       | [UX Portfolio](#) | [LectureNote09](#) | [A09: Pitch](#)
 10      | [Review](#) | [FinalProjectEvaluation](#) | [A10: Peer Review](#)
 
