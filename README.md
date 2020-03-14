@@ -30,8 +30,8 @@ Week    |       Topics      |   Activity+References      |   Assignments
 6       | [Interface Design](https://docs.google.com/presentation/d/10WjqS62ThHPwq26p9G6gBpTWhCdMBXJ_fNl_32UZtgI/edit?usp=sharing)  | [LectureNote06](https://docs.google.com/document/d/1V3mjR9ppGXzCN2ZBXpjhXIMdvC8o-yj7pqLG0AdRw9I/edit?usp=sharing) | [A07: Color Scheme & Accessibility Prob](https://docs.google.com/document/d/1G_2kRcKQ5JU2RK2QCU_5v_VXfn6atVeG2HywaO8bDEU/edit?usp=sharing)
 7       | [Prototyping](https://docs.google.com/presentation/d/1nBaAmRynXH2ga_5tfJBFwPwCQEnGIf09oJt1Q9_o-LM/edit?usp=sharing) | [LectureNote07](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote07) | [A08: High Fidelity Prototype+](https://docs.google.com/document/d/1LltO1JjHY3sNvBx4Td5mKKoV5-ZhzHtby1V2-4lPnSo/edit?usp=sharing)
 8       | [Iterative Process] | [LectureNote08](https://github.com/UX-UI-Design-Lab/DH150-2020W/wiki/LectureNote-Week08) | [Cognitive Walkthrough]
-9       | [UX Portfolio](#) | [LectureNote09](#) | [A09: Pitch](#)
-10      | [Review](#) | [FinalProjectEvaluation](#) | [A10: Peer Review](#)
+9       | [UX Portfolio](https://docs.google.com/presentation/d/1Db_THpHtLrG1aPdbeVjtdN65IbdqmRJEOICGHhH3_r0/edit?usp=sharing) | [DemoExample09](https://ux-ui-design-lab.github.io/DH150-demo-2020W/) | [A09: Pitch](https://docs.google.com/document/d/1mpoWvFlYYbBKdd1jH14gEwKGOi-H3TupgB4VlLTjx6M/edit?usp=sharing)
+10      | [Review](#) | [FinalProjectEvaluation](https://docs.google.com/forms/d/e/1FAIpQLSfHrSry2JjSRz0Ez8tzmSQ87gQEiN3mYkxP6o4WrNVJHBd_TA/viewform?usp=sf_link) | [A10: Peer Review](https://docs.google.com/document/d/1TVe194HGjYE4HpVKa6Q5PNX3Zoz0tlcoDeTfWflQwEw/edit?usp=sharing)
 
 ###### The assignment due is by the beginning of the next classtime unless it is marked with +. + marked assignments have two-weeks to work.
 
