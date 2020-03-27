@@ -1,5 +1,5 @@
 # DH150-2020W
-Advanced Topics in Digital Humanities DH150: UX+UI Design, UCLA 2020 Winter
+Advanced Topics in Digital Humanities DH150: UX+UI Design, UCLA
 
 [Syllabus](https://docs.google.com/document/d/1PsyF2IWqN1KFuy7d8UuhVCjELQ9C1fOgiSWy20bR5JY/edit?usp=sharing)
 
@@ -18,7 +18,7 @@ Upon completion of this course students will be able to:
 - Document the design decision-making process with evidence
 - Present the creative user experience design
 
-## COURSE CALDENDAR
+## COURSE CALDENDAR (Example of 2020W)
 
 Week    |       Topics      |   Activity+References      |   Assignments 
 --------|-------------------|--------------------------|------------------------
