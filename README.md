@@ -1,7 +1,7 @@
-# DH150-2020W
+# DH150
 Advanced Topics in Digital Humanities DH150: UX+UI Design, UCLA
 
-[Syllabus](https://docs.google.com/document/d/1PsyF2IWqN1KFuy7d8UuhVCjELQ9C1fOgiSWy20bR5JY/edit?usp=sharing)
+[Example Syllabus](https://docs.google.com/document/d/1PsyF2IWqN1KFuy7d8UuhVCjELQ9C1fOgiSWy20bR5JY/edit?usp=sharing)
 
 Contact Instructor: Dr. Sookie Cho (sookie at g dot ucla dot edu)
 
